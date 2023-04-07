@@ -171,8 +171,9 @@ footer h2 {
 img {
   /* this is limiting the width of the image make 100% width of the parents maximum */
   max-width: 100%;
+  height: auto;
 }
 
 img:hover {
   opacity: 0.8;
-  
+}
