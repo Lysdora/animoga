@@ -43,12 +43,6 @@ nav ul {
   font-size: 15px;
 }
 
-li.empty {
-  width: 90px;
-  border-top: 1px solid;
-  position: relative;
-  top: -5px;
-}
 
 header {
   top: 78px;
