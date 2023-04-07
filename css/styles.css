@@ -30,7 +30,7 @@ nav a {
 
 nav ul li a:hover {
   color: black;
-  font-size: bold;
+
 }
 nav ul {
   margin: 0 auto;
@@ -98,7 +98,7 @@ p {
 
 a.button:hover {
   /* color: black; */
-  font-weight: bold;
+  font-size: bold;
   /* background-color: #55efc4; */
   background: black;
   color: white;
@@ -171,9 +171,8 @@ footer h2 {
 img {
   /* this is limiting the width of the image make 100% width of the parents maximum */
   max-width: 100%;
-  height: auto;
 }
 
 img:hover {
   opacity: 0.8;
-}
+  
